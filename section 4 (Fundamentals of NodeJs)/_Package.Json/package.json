@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch app.js",
+    "build": "mkdir hi",
+    "delete": "rm -r hi"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
